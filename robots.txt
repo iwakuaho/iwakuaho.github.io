@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwakuaho.github.io/HGZ/sitemap_index.txt
+Sitemap: https://iwakuaho.github.io/JEp/sitemap_index.txt
+Sitemap: https://iwakuaho.github.io/iYj/sitemap_index.txt
+Sitemap: https://iwakuaho.github.io/rfw/sitemap_index.txt
